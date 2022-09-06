@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Israelspells
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and SQL
+- 👋 Hi, I’m @IsraelAnalytics
+- 👀 I’m interested in Data Science/Data Analysis
+- 🌱 I’m currently learning Python, SQL and MS Excel
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning
 - 📫 How to reach me - adeyemiisrael280@gmail.com
 
